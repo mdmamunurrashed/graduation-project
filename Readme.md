@@ -1,4 +1,4 @@
-# Microcontroller Based Digital Logic IC and Transistor Tester
+# Microcontroller Based Digital Logic Integrated Circuit and Transistor Tester
 
 ## Project Overview
 This project, **Design and Development of a Microcontroller Based Digital Logic Integrated Circuit and Transistor Tester**, was developed as part of the requirements for the **Bachelor of Science in Electronics and Communication Engineering** at the **Institute of Science and Technology, National University Bangladesh**.
